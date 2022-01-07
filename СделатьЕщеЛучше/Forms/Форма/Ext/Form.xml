@@ -50,6 +50,7 @@
 					<v8:content>Сделать еще лучше</v8:content>
 				</v8:item>
 			</ToolTip>
+			<Action>СделатьЕщеЛучше</Action>
 		</Command>
 	</Commands>
 </Form>
